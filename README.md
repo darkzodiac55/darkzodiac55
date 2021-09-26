@@ -6,7 +6,7 @@
 
 Moje technológie: 
 
-HTML, Vanilla JS (ES6) : pokrocily, Vanilla CSS : pokrocily, React (with hooks): zaciatocnik
+HTML, Vanilla JS (ES6) : pokrocily, Vanilla CSS : pokrocily, React (with hooks): mierne pokrocily
 
 Webpack, Git/GitHub, npm, Bootstrap
 
