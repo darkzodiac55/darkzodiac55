@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Igor G.
 
-- 🌱 I’m interested in and currently learning web development.
+- 🌱 I’m interested in and currently learning web development. Currently studying MERN stack.
 
 - 📫 How to reach me - igorgajdac1@gmail.com / darkzodiac55@gmail.com
 
 Moje technológie: 
 
-HTML, Vanilla JS (ES6) : pokrocily, Vanilla CSS : pokrocily, React (with hooks): mierne pokrocily
+HTML, Vanilla JS (ES6) : pokrocily, Vanilla CSS : pokrocily, React (with hooks): mierne pokrocily, Node.js : zaciatocnik
 
 Webpack, Git/GitHub, npm, Bootstrap
 
