@@ -2,7 +2,7 @@
 
 - 🌱 I’m interested in and currently learning web development. Currently studying MERN stack.
 
-- 📫 How to reach me - igorgajdac1@gmail.com / darkzodiac55@gmail.com
+- 📫 How to reach me - darkzodiac55@gmail.com
 
 Moje technológie: 
 
